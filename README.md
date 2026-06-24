@@ -64,16 +64,27 @@ Built a Streamlit web application for real-time predictions.
 
 ### **Machine Learning Pipeline**
 News Article
+
       ↓
+      
 Text Cleaning
+
       ↓
+      
 Preprocessing
+
       ↓
+      
 TF-IDF Vectorization
+
       ↓
+      
 Machine Learning Model
+
       ↓
+      
 Real / Fake Prediction
+
 ### **Installation**
 Clone Repository
 
