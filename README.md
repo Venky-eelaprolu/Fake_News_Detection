@@ -76,33 +76,57 @@ Machine Learning Model
 Real / Fake Prediction
 ### **Installation**
 Clone Repository
+
 git clone https://github.com/Venky-eelaprolu/Fake_News_Detection.git
+
 Move into Project Directory
+
 cd Fake_News_Detection
+
 Install Dependencies
+
 pip install -r requirements.txt
+
 Run Application
+
 streamlit run app.py
+
 ### **Skills Demonstrated**
+
 Machine Learning
+
 Natural Language Processing (NLP)
+
 Text Classification
+
 Data Preprocessing
+
 Feature Engineering
+
 TF-IDF Vectorization
+
 Streamlit Deployment
+
 Python Programming
+
 Model Serialization (Pickle)
+
 ### **Project Outcome**
 
 Successfully developed a Machine Learning-based Fake News Detection system capable of classifying news articles as Real or Fake using NLP and TF-IDF Vectorization techniques. The application provides real-time predictions through an interactive Streamlit interface and demonstrates practical implementation of text classification models.
 
 ### **Future Enhancements**
+
 Deep Learning Models (LSTM, GRU)
+
 Transformer Models (BERT)
+
 News Source Credibility Analysis
+
 Multi-Language Support
+
 Explainable AI (XAI) Integration
+
 Real-Time News API Integration
 ### **Author**
 
